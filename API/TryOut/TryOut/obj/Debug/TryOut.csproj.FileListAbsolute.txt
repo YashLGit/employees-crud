@@ -1,0 +1,8 @@
+C:\Users\YashodhaLankatilleka\Documents\.NET\Angular 16 CRUD with .NET 6 Web API\FullStack UI\API\TryOut\TryOut\bin\Debug\TryOut.exe.config
+C:\Users\YashodhaLankatilleka\Documents\.NET\Angular 16 CRUD with .NET 6 Web API\FullStack UI\API\TryOut\TryOut\bin\Debug\TryOut.exe
+C:\Users\YashodhaLankatilleka\Documents\.NET\Angular 16 CRUD with .NET 6 Web API\FullStack UI\API\TryOut\TryOut\bin\Debug\TryOut.pdb
+C:\Users\YashodhaLankatilleka\Documents\.NET\Angular 16 CRUD with .NET 6 Web API\FullStack UI\API\TryOut\TryOut\obj\Debug\TryOut.csproj.AssemblyReference.cache
+C:\Users\YashodhaLankatilleka\Documents\.NET\Angular 16 CRUD with .NET 6 Web API\FullStack UI\API\TryOut\TryOut\obj\Debug\TryOut.csproj.SuggestedBindingRedirects.cache
+C:\Users\YashodhaLankatilleka\Documents\.NET\Angular 16 CRUD with .NET 6 Web API\FullStack UI\API\TryOut\TryOut\obj\Debug\TryOut.csproj.CoreCompileInputs.cache
+C:\Users\YashodhaLankatilleka\Documents\.NET\Angular 16 CRUD with .NET 6 Web API\FullStack UI\API\TryOut\TryOut\obj\Debug\TryOut.exe
+C:\Users\YashodhaLankatilleka\Documents\.NET\Angular 16 CRUD with .NET 6 Web API\FullStack UI\API\TryOut\TryOut\obj\Debug\TryOut.pdb
